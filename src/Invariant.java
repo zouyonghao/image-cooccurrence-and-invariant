@@ -80,6 +80,15 @@ public class Invariant {
         System.out.println("phi6 = " + phi6);
         System.out.println("phi7 = " + phi7);
 
+        System.out.println("=========");
+        System.out.println(phi1);
+        System.out.println(phi2);
+        System.out.println(phi3);
+        System.out.println(phi4);
+        System.out.println(phi5);
+        System.out.println(phi6);
+        System.out.println(phi7);
+
     }
 
 }
